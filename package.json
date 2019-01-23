@@ -1,8 +1,8 @@
 {
   "name": "cf-model-finder",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Model Finder Middleware, to be used with cf-api-server",
+  "main": "model-finder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
